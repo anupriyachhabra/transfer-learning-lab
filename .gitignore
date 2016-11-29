@@ -2,3 +2,7 @@ data
 models
 .ipynb_checkpoints
 bottlenecks
+vgg-100.zip
+vgg-100/
+.DS_store
+.idea/
